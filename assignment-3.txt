@@ -1,0 +1,27 @@
+
+1.what is open sourcetool?
+open source tools are softwate tools that are freely available without a commercial licence.
+2.what is paid tools?
+paid tools are those which needs to apy
+3.what is anaconda and why we use it?
+anaconda is an open source distribution of the python and R programming languagesfor data science that aims to simplify package management and deployment
+4.what is different between version in python?
+python 2 was to make programming simple and easy to learn for the common mass
+Python 3 is backward incompatible and aims at eliminating the problems which new programmers face while learning a programming language.
+5.what is different between .exe file and .setup file?
+EXE setups have different parameters based on the tool that was used to create the installer.
+6.what is difference between anaconda navigator and anaconda prompt?
+anacondaNavigator:navigator is a desktop graphical user interface that allows you to launch applications and easily manage conda packages, environments, and channels without using command-line commands.
+anacondaprompt:Anaconda software helps you create an environment for many different versions of Python and package versions. Anaconda is also used to install, remove, and upgrade packages in your project environments.
+7.what is difference between jupyter and spydertool?
+jupyter:jupyter is an interactive python notebook where you can run code,visualize data and include text all in one document.
+spyder:Spyder is an IDE specifically for scientific programming in Python. 
+8.what is difference between development testing and deployment?
+developer: A developer codes and creates an application based on the requirements 
+tester:A tester checks the conformance of the application that was developed to the baselined requirements
+deployment:Deployment is the mechanism through which applications, modules, updates, and patches are delivered from developers to users.
+9.why we use jupyter terminal?
+Jupyter Notebook allows users to compile all aspects of a data project in one place making it easier to show the entire process of a project to your intended audience.
+10.what is files,running and cluster in jupyter?
+ files:You can create content with Jupyter notebooks. For example, the content for the current page is contained in this notebook file .
+	
